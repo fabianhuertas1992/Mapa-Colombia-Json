@@ -80,24 +80,8 @@ En Colab solo necesitas ejecutar:
 
 ---
 
-## 📝 Licencia de datos
-
-El GeoJSON de departamentos proviene de fuentes abiertas (por ejemplo, [IGAC](https://www.igac.gov.co/) o repositorios de GitHub).  
-Verifica siempre los términos originales antes de redistribuir el archivo.
-
----
-
-## 🤝 Contribuciones
-
-1. Haz un *fork* del repositorio.  
-2. Crea tu rama de mejoras: `git checkout -b feature/mi-mejora`.  
-3. Confirma cambios: `git commit -m "Añade leyenda"`  
-4. Envía un *pull request*.
-
----
-
 ## 📮 Contacto
 
-Si encuentras problemas o tienes sugerencias, abre un *issue* o escríbeme a **fabian@nepturalabs.net**.
+Si encuentras problemas o tienes sugerencias,  escríbeme a **fabian@nepturalabs.net**.
 
 ¡Disfruta visualizando los datos geográficos de Colombia! 🇨🇴
